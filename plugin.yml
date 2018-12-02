@@ -1,0 +1,15 @@
+name: NexusJava
+author: Coaster_Freak
+version: 1.0
+description: The Nexus Java Plugin
+main: net.nexus.NexusJava
+depend: [WorldEdit]
+
+commands:
+   cskull:
+      description: Gebe dir Custom Heads via TextureURL
+      aliases: [chead, customhead, customskull]
+   punish:
+      description: punish
+   wichteln:
+      description: wichteln
